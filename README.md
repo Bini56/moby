@@ -48,7 +48,7 @@ United States and other governments.
 It is your responsibility to ensure that your use and/or transfer does not
 violate applicable laws.
 
-For more information, please see https://www.bis.doc.gov
+For more information, ##please see https://www.bis.doc.gov
 
 Licensing
 =========
